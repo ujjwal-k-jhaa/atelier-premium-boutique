@@ -1,8 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import { motion } from 'motion/react';
-
-const heroImage = "/src/assets/images/boutique_hero_1782563742365.jpg";
+import heroImage from '../assets/images/boutique_hero_1782563742365.jpg';
 
 interface HeroProps {
   onExploreClick: () => void;
