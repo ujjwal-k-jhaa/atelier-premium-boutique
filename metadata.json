@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Premium Boutique",
+  "description": "A beautifully designed, modern and premium ecommerce website for an upscale boutique, featuring curated minimalist fashion collections, editorial aesthetics, shopping cart, favorites wishlist, interactive quick view, and an immersive checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
